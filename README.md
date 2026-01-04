@@ -70,3 +70,16 @@
     }
 ]
 ```
+
+:video_game: resolver as dependencias
+
+```
+dart pub get
+```
+
+
+:video_game: adicionar uma dependencia
+
+```
+dart pub add //nome
+```
